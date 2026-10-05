@@ -1,0 +1,6 @@
+{
+    "editor.suggest.shareSuggestSelections": true,
+    "editor.suggest.preview": true,
+    "editor.suggest.localityBonus": true,
+    "editor.inlineSuggest.experimental.showOnSuggestConflict": "always"
+}
