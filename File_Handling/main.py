@@ -1,0 +1,1 @@
+file = open("user.txt", "r", encoding="utf-8")
